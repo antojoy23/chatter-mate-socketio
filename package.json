@@ -1,0 +1,8 @@
+{
+    "name": "chatter-mate-socketio",
+    "version": "0.0.1",
+    "description": "chatter mate messaging app",
+    "dependencies": {
+        "express": "^4.19.2"
+    }
+}
